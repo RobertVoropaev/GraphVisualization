@@ -1,7 +1,7 @@
 ## Визуализация бинарного дерева
 
 ### Код
-Код алгоритма с примерами: *LayeredTreeDraw.ipynb*
+Код алгоритма: *LayeredTreeDraw.ipynb*
 
 ### Пример работы алгоритма
 <img src="out/tree0.png" width="100%">
