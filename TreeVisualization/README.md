@@ -4,4 +4,4 @@
 Код алгоритма с примерами: *LayeredTreeDraw.ipynb*
 
 ### Пример работы алгоритма
-<img src="out/tree1.png" width="100%">
+<img src="out/tree0.png" width="100%">
