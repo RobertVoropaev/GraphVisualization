@@ -4,4 +4,4 @@
 Код алгоритма: *tSNE.ipynb*
 
 ### Пример работы алгоритма
-<img src="out/mnist.png" width="100%">
+<img src="out/mnist_new.png" width="100%">
